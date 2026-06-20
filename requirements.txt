@@ -2,3 +2,5 @@ pandas
 numpy
 ipython
 ipykernel
+scikit-learn==1.9.0
+tensorflow==2.21.0
